@@ -1,0 +1,7 @@
+{
+  "name": "TickIt - Performance Productivity",
+  "description": "TickIt is a high-performance task management platform designed for seamless organization, productivity analytics, and gamified progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
